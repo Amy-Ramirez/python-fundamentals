@@ -4,6 +4,7 @@ This project was developed as part of the *Python Fundamentals* and *Advanced Py
 The goal of this practice is to create a synthetic dataset by generating random server hostnames using Python. The dataset is then used to build a Pandas DataFrame and visualize basic insights using Matplotlib.
 
 ## Technologies Used
+- Python
 - Pandas  
 - Matplotlib  
 - Random module  
