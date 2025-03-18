@@ -6,8 +6,7 @@ The goal of this practice is to create a synthetic dataset by generating random 
 ## Technologies Used
 - Python
 - Pandas  
-- Matplotlib  
-- Random module  
+- Matplotlib   
 
 
 ## Sample Visuals
